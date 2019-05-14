@@ -29,7 +29,7 @@ Date.init(month: 11, day: 10, year: 2019)!.shortExpandedMultipliedNumerology // 
 $ gem install cocoapods
 ```
 
-> CocoaPods is required to build Numerology 0.0.1+.
+> CocoaPods is required to build Numerology 0.1+.
 
 To integrate Numerology into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
@@ -38,7 +38,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
 use_frameworks!
 
-pod 'Numerology', '~> 0.0.1'
+pod 'Numerology', '~> 0.1'
 ```
 
 Then, run the following command:
