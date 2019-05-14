@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Numerology"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1"
   spec.summary      = "Date numerology utilities written in Swift. "
 
   spec.description  = <<-DESC
